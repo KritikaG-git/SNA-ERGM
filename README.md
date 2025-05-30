@@ -1,6 +1,8 @@
 # 🌐 Social Network Analysis Project – Report
 
-This repository presents a documented case study of a Social Network Analysis (SNA). 
+This repository presents a documented case study of a Social Network Analysis (SNA) project developed in collaboration with a team, where we explored network dynamics using statistical modeling and visualization techniques.
+
+SNA dashboard: https://yetanothertechproject.streamlit.app/ 
 
 ---
 
